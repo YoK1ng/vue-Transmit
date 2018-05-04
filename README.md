@@ -10,7 +10,7 @@ npm run dev
 ## 打包
 npm run build
 
-## 语法
+## 组建通信
 ``` bash
 # 父组件传值子组件
 # 父组件传事件子组件

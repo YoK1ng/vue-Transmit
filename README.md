@@ -11,8 +11,8 @@ npm run dev
 npm run build
 
 ## 语法
-
-## 父传值子
+``` bash
+# 父传值子
 1、父组件传值     :content="item"
 
 2、子组件“props”接受     props:['content']
@@ -58,4 +58,5 @@ export var bus = new Vue()
 
 3、$emit传递事件     bus.$emit("tbta")
 
-4、created接收事件     bus.$on('tbta' ,function(){ }.bind(this));
+4、created接收事件     bus.$on('tbta' ,function(){ }.bind(this));
+```

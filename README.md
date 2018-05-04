@@ -1,18 +1,18 @@
-# 演示地址
+## 演示地址
 https://yok1ng.github.io/vue-transmit/dist/index.html#/
 
-# 安装
+## 安装
 npm install
 
-# 启动服务 localhost:8080
+## 启动服务 localhost:8080
 npm run dev
 
-# 打包
+## 打包
 npm run build
 
 ## 语法
 
-# 父传值子
+## 父传值子
 1、父组件传值     :content="item"
 
 2、子组件“props”接受     props:['content']

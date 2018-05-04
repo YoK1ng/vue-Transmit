@@ -1,3 +1,6 @@
+# 演示地址
+https://yok1ng.github.io/vue-transmit/dist/index.html#/
+
 # 安装
 npm install
 
